@@ -1,6 +1,5 @@
 #２の倍数でFizz３の倍数でBuzzを出力
 #割り算なし
-init = 0
 max  = ARGV[0].to_i
 
 #予め答えを生成
